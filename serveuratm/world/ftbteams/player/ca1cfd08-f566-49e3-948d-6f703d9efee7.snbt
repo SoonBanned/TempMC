@@ -1,0 +1,19 @@
+{
+	id: "ca1cfd08-f566-49e3-948d-6f703d9efee7"
+	type: "player"
+	player_name: "MrFrozenkill"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "MrFrozenkill"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

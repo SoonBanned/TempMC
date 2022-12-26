@@ -1,0 +1,19 @@
+{
+	id: "e276dac6-774a-43f4-b7b4-e55584c459b8"
+	type: "player"
+	player_name: "SoonBanned"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "SoonBanned"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

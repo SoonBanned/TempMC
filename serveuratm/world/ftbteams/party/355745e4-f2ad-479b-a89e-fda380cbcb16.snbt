@@ -1,0 +1,26 @@
+{
+	id: "355745e4-f2ad-479b-a89e-fda380cbcb16"
+	type: "party"
+	owner: "e276dac6-774a-43f4-b7b4-e55584c459b8"
+	ranks: {
+		e276dac6-774a-43f4-b7b4-e55584c459b8: "owner"
+		ca1cfd08-f566-49e3-948d-6f703d9efee7: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Niggerio"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1672002539987L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"SoonBanned\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "e276dac6-774a-43f4-b7b4-e55584c459b8", date: 1672002548233L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MrFrozenkill\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1672002551936L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"MrFrozenkill\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

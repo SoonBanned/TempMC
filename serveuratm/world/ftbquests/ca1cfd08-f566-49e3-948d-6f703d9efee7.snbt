@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "ca1cfd08f56649e3948d6f703d9efee7"
+	name: "MrFrozenkill"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		159872B988A173AA: 1
+	}
+	started: {
+		1B175B2C955D8395: 1672002367173L
+		159872B988A173AA: 1672002367173L
+		731686C758AD9A99: 1672002367173L
+		0000000000000001: 1672002367173L
+	}
+	completed: {
+		159872B988A173AA: 1672002367173L
+		731686C758AD9A99: 1672002367173L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
